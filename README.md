@@ -1,3 +1,3 @@
 # hello-world
-a trail repository
+# a trial repository
 This is just some text for trial
